@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IBlj29y7t0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOSES\\Desktop\\f#\\Calculator\\calculator\\calculator.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOSES\\.nuget\\packages\\fsharp.core\\9.0.201\\fsharp.core.9.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}
